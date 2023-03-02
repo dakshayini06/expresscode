@@ -15,3 +15,4 @@ grep
 df -dh
 ps -ef
 mtime
+kill -9
